@@ -19,4 +19,3 @@ square = generate_magic_square(n)
 for row in square:
     print(row)
     print(row)
-    print(row)
